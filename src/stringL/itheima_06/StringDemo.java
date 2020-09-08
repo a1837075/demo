@@ -1,4 +1,4 @@
-package stringL.com.itheima_06;
+package stringL.itheima_06;
 
 /**
  * @author dawnStamp

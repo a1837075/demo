@@ -1,4 +1,4 @@
-package stringL.com.itheima_07;
+package stringL.itheima_07;
 import java.util.Scanner;
 
 /**

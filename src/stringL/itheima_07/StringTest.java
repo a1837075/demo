@@ -1,4 +1,4 @@
-package stringL.com.itheima_07;
+package stringL.itheima_07;
 
 /**
 把数组中的数据按照指定格式拼接成一个字符串
