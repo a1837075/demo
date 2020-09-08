@@ -1,4 +1,4 @@
-package com.itheima_01;
+package arrayL.itheima_01;
 /**
  定义格式：
     A：数据类型[] 数组名;（推荐）

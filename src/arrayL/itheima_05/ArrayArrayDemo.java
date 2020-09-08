@@ -1,4 +1,4 @@
-package com.itheima_05;
+package arrayL.itheima_05;
 
 /**
 二维数组：其实就是元素为一维数组的数组

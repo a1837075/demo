@@ -1,4 +1,4 @@
-package com.itheima_02;
+package arrayL.itheima_02;
 
 /**
 静态初始化的格式：

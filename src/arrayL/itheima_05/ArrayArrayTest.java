@@ -1,4 +1,4 @@
-package com.itheima_05;
+package arrayL.itheima_05;
 
 /**
 二维数组的遍历

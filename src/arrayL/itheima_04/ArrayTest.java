@@ -1,4 +1,4 @@
-package com.itheima_04;
+package arrayL.itheima_04;
 
 /**
 数组遍历
