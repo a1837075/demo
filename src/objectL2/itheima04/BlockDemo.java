@@ -4,7 +4,7 @@ package objectL2.itheima04;
  * @author dawnStamp
  * @date 2020/9/9 15:41
  */
-public class BlochDemo {
+public class BlockDemo {
     public static void main(String[] args) {
         //局部代码块：存在于方法中，控制变量的生命周期（作用域）
         /*{
